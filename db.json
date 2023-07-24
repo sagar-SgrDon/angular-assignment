@@ -1,17 +1,5 @@
 {
-  "employee": [
-    {
-      "firstName": "Shikha",
-      "lastName": "Arora",
-      "address": "Rohtak",
-      "age": 25,
-      "email": "shikha@hotmail.com",
-      "contactNumber": 8765435487,
-      "salary": 250000,
-      "profession": "Student",
-      "sportIntRate": "1",
-      "id": 3
-    },
+  "employee": [   
     {
       "firstName": "Sagar",
       "lastName": "Arora",
@@ -47,19 +35,7 @@
       "profession": "Actor",
       "sportIntRate": "1",
       "id": 6
-    },
-    {
-      "firstName": "Avantika",
-      "lastName": "Bist",
-      "address": "Rohtak",
-      "age": 26,
-      "email": "avantika12@gmail.com",
-      "contactNumber": 9897654785,
-      "salary": 750000,
-      "profession": "Developer",
-      "sportIntRate": "2",
-      "id": 7
-    },
+    },   
     {
       "firstName": "Tobey",
       "lastName": "Maguire",
